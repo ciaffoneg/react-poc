@@ -1,0 +1,199 @@
+{
+  "campaigns": [
+    {
+      "name": "Test Campaign",
+      "dailyBudget": "20",
+      "status": "active",
+      "selecteds": [
+        {
+          "name": "Casio Digital Watch",
+          "sku": "DA4532A54KJ45234J34",
+          "price": 125,
+          "stock": 7,
+          "cpc": 1.55,
+          "id": 1
+        },
+        {
+          "name": "Notebook Intel i7",
+          "sku": "J543J345J23HK2VC1",
+          "price": 700,
+          "stock": 1,
+          "cpc": 1.6,
+          "id": 2
+        },
+        {
+          "name": "Iphone 7",
+          "sku": "HBI245IOV245YV",
+          "price": 900,
+          "stock": 12,
+          "cpc": 3.2,
+          "id": 3
+        }
+      ],
+      "creation": "2017-05-09",
+      "skus": 3,
+      "totalSpent": 12.3,
+      "totalClicks": 6,
+      "id": 1
+    },
+    {
+      "name": "Default Name2",
+      "dailyBudget": "251",
+      "status": "active",
+      "selecteds": [
+        {
+          "name": "Casio Digital Watch",
+          "sku": "DA4532A54KJ45234J34",
+          "price": 125,
+          "stock": 7,
+          "cpc": 1.55,
+          "id": 1
+        },
+        {
+          "name": "Notebook Intel i7",
+          "sku": "J543J345J23HK2VC1",
+          "price": 700,
+          "stock": 1,
+          "cpc": 1.6,
+          "id": 2
+        },
+        {
+          "name": "Iphone 7",
+          "sku": "HBI245IOV245YV",
+          "price": 900,
+          "stock": 12,
+          "cpc": 3.2,
+          "id": 3
+        }
+      ],
+      "creation": "2017-05-09",
+      "skus": 3,
+      "totalSpent": 0,
+      "totalClicks": 0,
+      "id": 2
+    },
+    {
+      "name": "Poc Test",
+      "status": "deleted",
+      "id": 3
+    },
+    {
+      "name": "Default Name5",
+      "status": "deleted",
+      "id": 4
+    },
+    {
+      "name": "2Default Name",
+      "dailyBudget": "433250",
+      "status": "active",
+      "selecteds": [
+        {
+          "name": "Casio Digital Watch",
+          "sku": "DA4532A54KJ45234J34",
+          "price": 125,
+          "stock": 7,
+          "cpc": 1.55,
+          "id": 1
+        },
+        {
+          "name": "Notebook Intel i7",
+          "sku": "J543J345J23HK2VC1",
+          "price": 700,
+          "stock": 1,
+          "cpc": 1.6,
+          "id": 2
+        },
+        {
+          "name": "Iphone 7",
+          "sku": "HBI245IOV245YV",
+          "price": 900,
+          "stock": 12,
+          "cpc": 3.2,
+          "id": 3
+        }
+      ],
+      "creation": "2017-05-10",
+      "skus": 3,
+      "totalSpent": 0,
+      "totalClicks": 0,
+      "id": 5
+    },
+    {
+      "name": "Default Name",
+      "dailyBudget": 250,
+      "status": "active",
+      "selecteds": [],
+      "creation": "2017-05-10",
+      "skus": 0,
+      "totalSpent": 0,
+      "totalClicks": 0,
+      "id": 6
+    }
+  ],
+  "sponsoreds": [
+    {
+      "name": "Casio Digital Watch",
+      "sku": "DA4532A54KJ45234J34",
+      "price": 125,
+      "stock": 7,
+      "cpc": 1.55,
+      "id": 1
+    },
+    {
+      "name": "Notebook Intel i7",
+      "sku": "J543J345J23HK2VC1",
+      "price": 700,
+      "stock": 1,
+      "cpc": 1.6,
+      "id": 2
+    },
+    {
+      "name": "Iphone 7",
+      "sku": "HBI245IOV245YV",
+      "price": 900,
+      "stock": 12,
+      "cpc": 3.2,
+      "id": 3
+    },
+    {
+      "name": "Ipod Nano 3rd Gen",
+      "sku": "BI480Y2354035CS",
+      "price": 150,
+      "stock": 42,
+      "cpc": 2.8,
+      "id": 4
+    },
+    {
+      "name": "PlayStation 4 Pro - 1TB",
+      "sku": "10B2Y4Y80B2340",
+      "price": 400,
+      "stock": 2,
+      "cpc": 2.25,
+      "id": 5
+    },
+    {
+      "name": "MacBook Pro 13inch Retina",
+      "sku": "78SDFG234HB23",
+      "price": 1350,
+      "stock": 53,
+      "cpc": 2,
+      "id": 6
+    },
+    {
+      "name": "Smartphone LG G6",
+      "sku": "234VHVI49T7F2934",
+      "price": 750,
+      "stock": 30,
+      "cpc": 3.1,
+      "id": 7
+    },
+    {
+      "name": "Samsung Galaxy S8",
+      "sku": "IHSV234951G2354",
+      "price": 800,
+      "stock": 9,
+      "cpc": 1.15,
+      "id": 8
+    }
+  ]
+}
